@@ -39,7 +39,7 @@ main {
     align-items: center;
     justify-content: center;
     background-color: #FFFFFF;
-    transform: rotate(180deg);
+    transform: rotate(-90deg);
     box-shadow: inset 3px 3px 0 #000, 
     inset -3px 3px 0 black, 
     inset -3px -3px 0 black, 
@@ -51,7 +51,6 @@ main {
     color: #FFFFFF;
     margin-top: 5px;
     background-color: #2D2C2C;
-    transform: rotate(0deg);
 }
 
 .player__digits {
